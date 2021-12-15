@@ -1,9 +1,0 @@
-<<<<<<< .merge_file_a19028
-123
-
-asdadad PARTE2
-=======
-123 q
-borrado
-4567 f
->>>>>>> .merge_file_a01964
